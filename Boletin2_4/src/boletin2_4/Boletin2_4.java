@@ -8,10 +8,8 @@ public class Boletin2_4 {
     
     public static void main(String[] args) {
     
-        int cantidad;       
-        int mon; //Monedas de 1
-        int resto1, resto2;
-              
+        int cantidad, mon, resto1, resto2;     
+                              
         cantidad = Integer.parseInt(JOptionPane.showInputDialog("Introduce la cantidad: "));
         
         resto1 = cantidad % 100;        
