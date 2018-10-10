@@ -19,9 +19,7 @@ public class Boletin2_3 {
                
         JOptionPane.showMessageDialog(null,"El total es: "+(bil1 * 100 + bil2 * 20 + bil3 * 5 + mon)+" euros");
         
-        
-        
-        
+                       
     }
     
 }
