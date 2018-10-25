@@ -18,7 +18,6 @@ public class Boletin2_3 {
         mon = Integer.parseInt(JOptionPane.showInputDialog("Introduce la cantidad de monedas de 1: "));
                
         JOptionPane.showMessageDialog(null,"El total es: "+(bil1 * 100 + bil2 * 20 + bil3 * 5 + mon)+" euros");
-        
                        
     }
     
