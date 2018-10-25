@@ -19,7 +19,6 @@ public class Boletin2_4 {
         JOptionPane.showMessageDialog(null,cantidad+" euros son: "+"\n"+(cantidad / 100)+" billetes de 100"+"\n"+(resto1 / 20)+" billetes de 20"+"\n"+(resto2 / 5)+" billetes de 5"+"\n"+mon+" monedas de 1");
         
         
-        
     }
     
 }
