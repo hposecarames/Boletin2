@@ -5,7 +5,6 @@ import javax.swing.JOptionPane;
 
 public class Boletin2_1 {
 
-    
     public static void main(String[] args) {
         
         double precioTarifa;
@@ -16,6 +15,5 @@ public class Boletin2_1 {
                 
         JOptionPane.showMessageDialog(null,"El porcentaje de descuento es: "+(100-(precioPagado * 100 / precioTarifa))+"%");
         
-    }
-    
+    } 
 }
