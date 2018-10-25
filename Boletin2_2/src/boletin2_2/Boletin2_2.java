@@ -10,7 +10,6 @@ public class Boletin2_2 {
         double tempC; //Temperatura en grados Celsius
                 
         tempC = Double.parseDouble(JOptionPane.showInputDialog("Introduce la temperatura en Celsius: "));
-                
         JOptionPane.showMessageDialog(null, tempC+" grados Celsius son: "+"\n"+(tempC * 1.8 + 32)+" grados Farenheit"+"\n"+(tempC + 273)+" grados Kelvin");
         
         
